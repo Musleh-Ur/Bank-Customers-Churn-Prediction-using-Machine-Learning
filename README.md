@@ -144,6 +144,8 @@ grid_search.fit(X_train, y_train)
 
 - Multi-Product Usage: Customers with 3–4 products have 4.8× higher churn risk than single-product users1.
 
+![pairplot](ttps://github.com/Musleh-Ur/Bank-Customers-Churn-Prediction-using-Machine-Learning/blob/main/Graphs/2d2fe2a1-13b5-4dab-b417-0d15585b6510.png)
+
 #### Model Performance
 - XGBoost achieved highest AUC-ROC (0.872) with precision-recall AUC of 0.534.
 
