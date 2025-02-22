@@ -150,4 +150,4 @@ grid_search.fit(X_train, y_train)
 
 - Feature Importance: Age (24%), Balance (19%), NumOfProducts (17%) dominated predictions.
 
-![pairplot]([ttps://github.com/Musleh-Ur/Bank-Customers-Churn-Prediction-using-Machine-Learning/blob/main/Graphs/2d2fe2a1-13b5-4dab-b417-0d15585b6510.png](https://github.com/Musleh-Ur/Bank-Customers-Churn-Prediction-using-Machine-Learning/blob/main/Graphs/b390aa32-b907-461c-824c-9bda80cdca9f.png)
+![correlationplot](https://github.com/Musleh-Ur/Bank-Customers-Churn-Prediction-using-Machine-Learning/blob/main/Graphs/2d2fe2a1-13b5-4dab-b417-0d15585b6510.png](https://github.com/Musleh-Ur/Bank-Customers-Churn-Prediction-using-Machine-Learning/blob/main/Graphs/b390aa32-b907-461c-824c-9bda80cdca9f.png)
